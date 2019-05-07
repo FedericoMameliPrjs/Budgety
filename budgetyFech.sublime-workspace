@@ -1,0 +1,890 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"nodeListForEach"
+			],
+			[
+				"inp",
+				"inputValue"
+			],
+			[
+				"input",
+				"inputType"
+			],
+			[
+				"que",
+				"querySelectorAll"
+			],
+			[
+				"cha",
+				"changedType"
+			],
+			[
+				"inpu",
+				"inputType"
+			],
+			[
+				"type",
+				"typeLabel"
+			],
+			[
+				"set",
+				"setType"
+			],
+			[
+				"ke",
+				"keyCode"
+			],
+			[
+				"displ",
+				"displayMonth"
+			],
+			[
+				"dat",
+				"dateOfToday"
+			],
+			[
+				"num",
+				"numSplit"
+			],
+			[
+				"dis",
+				"displayPercentages"
+			],
+			[
+				"per",
+				"percentages"
+			],
+			[
+				"te",
+				"textContent"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"fie",
+				"fields"
+			],
+			[
+				"tota",
+				"totals"
+			],
+			[
+				"bu",
+				"budgetCTRL"
+			],
+			[
+				"get",
+				"getPercentages"
+			],
+			[
+				"all",
+				"allItems"
+			],
+			[
+				"cal",
+				"calcPercentages"
+			],
+			[
+				"pto",
+				"prototype"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"pre",
+				"percentage"
+			],
+			[
+				"up",
+				"updatePercentages"
+			],
+			[
+				"del",
+				"deleteListItem"
+			],
+			[
+				"spli",
+				"splitID"
+			],
+			[
+				"ite",
+				"itemID"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"budg",
+				"budget"
+			],
+			[
+				"init",
+				"initBudget"
+			],
+			[
+				"di",
+				"displayBudget"
+			],
+			[
+				"total",
+				"totalExp"
+			],
+			[
+				"bud",
+				"budgetLabel"
+			],
+			[
+				"pe",
+				"percentage"
+			],
+			[
+				"perc",
+				"percentage"
+			],
+			[
+				"budgt",
+				"budgetCtrl"
+			],
+			[
+				"to",
+				"totals"
+			],
+			[
+				"cac",
+				"calcTotal"
+			],
+			[
+				"fields",
+				"fieldsArr"
+			],
+			[
+				"clea",
+				"clearFields"
+			],
+			[
+				"d",
+				"description"
+			],
+			[
+				"new",
+				"newItem"
+			],
+			[
+				"UI",
+				"UICtrl"
+			],
+			[
+				"html",
+				"newHtml"
+			],
+			[
+				"incom",
+				"incomeContainer"
+			],
+			[
+				"Do",
+				"domStrings"
+			],
+			[
+				"ne",
+				"newHtml"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"dom",
+				"domStrings"
+			],
+			[
+				"ini",
+				"init"
+			],
+			[
+				"in",
+				"inVal"
+			],
+			[
+				"a",
+				"add_btn"
+			],
+			[
+				"add",
+				"add_btn"
+			],
+			[
+				"un",
+				"unityPrice"
+			],
+			[
+				"fin",
+				"dom_finalPrice"
+			],
+			[
+				"pr",
+				"productName"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"dom_",
+				"dom_btn_addProduct"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"ca",
+				"changeBackground"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"colo",
+				"colorList"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"body",
+				"bodyDOM"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"top",
+				"border-top"
+			],
+			[
+				"SE",
+				"SELECT\tTag"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"is",
+				"isAnsCorrect"
+			],
+			[
+				"correct",
+				"correctAnswer"
+			],
+			[
+				"str",
+				"strIsNumeric"
+			],
+			[
+				"use",
+				"user_ans"
+			],
+			[
+				"question",
+				"questions"
+			],
+			[
+				"an",
+				"answer"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"print",
+				"printQuestion"
+			],
+			[
+				"corr",
+				"correctAnswer"
+			],
+			[
+				"tmp",
+				"tmp_question"
+			],
+			[
+				"co",
+				"correctAnswer"
+			],
+			[
+				"ans",
+				"answers"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"btn",
+				"btnClickEvent"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"nu",
+				"numB"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"Per",
+				"Persona"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"cr",
+				"crypted_Psw_In"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"slide",
+				"slide_offerte"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"col-",
+				"col-sm-1"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"BG",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"sho",
+				"box-shadow"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"conte",
+				"container-fluid"
+			],
+			[
+				"val",
+				"valida_dal"
+			],
+			[
+				"db",
+				"db_exeQ"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"bord",
+				"border-style"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"bac",
+				"border-image-slice"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"I",
+				"I_nostri_prodotti"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"tex",
+				"text-shadow"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 5043,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 10467,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Scuola/Desktop/Corso Javascript/Funzioni/funzioni.js",
+			"settings":
+			{
+				"buffer_size": 1302,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5462,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Scuola/Desktop/Corso Javascript/Esercizi miei/Nuova cartella/index.html",
+		"/C/Users/Scuola/Desktop/Corso Javascript/Esercizi miei/liElements/index.html",
+		"/C/Users/Scuola/Desktop/Corso Javascript/prg/HowMuchIllSpend/js/npm.js",
+		"/C/Users/Scuola/Desktop/Corso Javascript/prg/HowMuchIllSpend/style.css",
+		"/C/Users/Scuola/Desktop/Corso Javascript/prg/HowMuchIllSpend/mainScript.js",
+		"/D/XAMPP_7.0/htdocs/Progetti Web/Pescheria Sara/sito v1/index.php",
+		"/C/Users/Scuola/Desktop/Corso Javascript/Esercizi/Sezione 5/Ex Closures/script.js",
+		"/C/Users/Scuola/Desktop/Corso Javascript/Esercizi/Sezione 5/Returning Function/index.html",
+		"/C/Users/Scuola/Desktop/Corso Javascript/Esercizi/Sezione 5/Returning Function/script.js",
+		"/C/Users/Scuola/Desktop/Corso Javascript/Risorse/Sezione 5/5-Advanced-JS-Final/5-Advanced-JS-Final/script.js",
+		"/C/Users/Scuola/Desktop/Corso Javascript/Esercizi/Sezione 5/Lezione/script.js",
+		"/D/XAMPP_7.0/htdocs/Progetti Web/Pescheria Il Relitto/index.php",
+		"/D/XAMPP_7.0/htdocs/Progetti Web/Pescheria Il Relitto/pages/i_nostri_prodotti.php",
+		"/D/XAMPP_7.0/htdocs/Progetti Web/Pescheria Il Relitto/php/functions.php",
+		"/D/XAMPP_7.0/htdocs/Progetti Web/Pescheria Il Relitto/admin/login.php",
+		"/D/XAMPP_7.0/htdocs/Progetti Web/Pescheria Il Relitto/php/adminLog.php",
+		"/D/XAMPP_7.0/htdocs/Progetti Web/Pescheria Il Relitto/admin/home.php",
+		"/D/XAMPP_7.0/htdocs/Progetti Web/Pescheria Il Relitto/css/bootstrap_overrides.css",
+		"/D/XAMPP_7.0/htdocs/Progetti Web/Pescheria Il Relitto/css/i_nostri_prodotti_layout.css",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/sito/admin/logout.php",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/sito/css/bootstrap_overrides.css",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/sito/pages/chi_siamo.php",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/sito/css/i_nostri_prodotti_layout.css",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/sito/css/bootstrap.css",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/sito/php/check_view_form.php",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/sito/pages/i_nostri_prodotti.php",
+		"/C/Users/Scuola/Desktop/CSS e HTML/bootstrap prove/Griglie/index.html",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/sito/index2.php",
+		"/C/Users/Scuola/Desktop/CSS e HTML/bootstrap prove/Griglie/DEFAULT.php",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/sito/index - Copia.php",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/sito/php/functions.php",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/sito/index.php",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/sito/css/myStyle.css",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/prova grigli/griglie.html",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/sito/DEFAULT.php",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/sito/index.html",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/sito/css/unslider.css",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/sito/css/mylayouts.css",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/sito/css/template.css",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/sito/a.php",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/sito/css/prettyPhoto.css",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/sito/css/materialdesignicons.min.css",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/sito/css/jquery.mCustomScrollbar.min.css",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/sito/css/bootstrap.min.css",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/Log Orari.txt",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/index.html",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/css/prettyPhoto.css",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/css/template.css",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/css/unslider.css",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/css/bootstrap.min.css",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/css/materialdesignicons.min.css",
+		"/D/Xampp/htdocs/Progetti Web/Pescheria Sara/css/jquery.mCustomScrollbar.min.css",
+		"/D/Xampp/htdocs/Progetti Web/Bootstrap default/index.html",
+		"/D/Xampp/htdocs/Progetti Web/Bootstrap default/vendor/bootstrap/css/bootstrap.css"
+	],
+	"find":
+	{
+		"height": 87.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"');\n",
+			"\t\t",
+			"carousel slide",
+			"img-responsive",
+			"foot",
+			".container",
+			".nino-subHeading",
+			"#nino-slider .nino-sectionHeading .nino-subHeading",
+			"carousel-inner"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5043,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5524.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10467,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7637,
+								7637
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 496.0,
+						"translation.y": 8850.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Scuola/Desktop/Corso Javascript/Funzioni/funzioni.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								707,
+								707
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5462,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2090,
+								2099
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1575.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "budgetyFech.sublime-project",
+	"replace":
+	{
+		"height": 75.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
